@@ -1,5 +1,30 @@
-# Kassem Commerce  Official product showcase maintained by **Mohamad Kassem**.  ## Overview  Product showcase for a professional WooCommerce commerce framework.  ## Technology  WordPress â€¢ WooCommerce â€¢ PHP â€¢ Responsive UI  ## Key Features  - Product management
-- Inventory workflow
-- Order printing
-- Multi-concept demos
-- Mobile-first storefronts  ## Status  Production / Active Development  ## Official Website  https://theverificat.com/  ## Source Code  **Proprietary software. Source code is not publicly distributed.**  This repository contains product information and documentation only. It does not contain commercial source code, APK files, ZIP packages, credentials, private APIs, or deployment secrets.  Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
+# Kassem Commerce
+
+![Kassem Commerce live storefront](assets/klikleb-live.png)
+
+Professional WooCommerce storefront framework by **Mohamad Kassem**.
+
+## Live Storefront
+
+**KlikLeb**
+
+https://klikleb.com/
+
+## Highlights
+
+- Product catalog and category browsing
+- Brand and specification filtering
+- Live WooCommerce stock and pricing
+- Sale-price presentation
+- Product and inventory workflows
+- Customer account and cart flows
+- Responsive mobile-first storefront
+- Order and commerce management foundation
+
+## Repository Policy
+
+**Showcase and documentation only.**
+
+The commercial theme source, WooCommerce extensions, installable ZIP packages, private integrations, credentials, and production secrets are not publicly distributed.
+
+Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
