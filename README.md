@@ -4,14 +4,11 @@
 
 Professional WooCommerce storefront framework by **Mohamad Kassem**.
 
-## Live Storefront
-
-**KlikLeb**
-
+## Live storefront
+**KlikLeb**  
 https://klikleb.com/
 
 ## Highlights
-
 - Product catalog and category browsing
 - Brand and specification filtering
 - Live WooCommerce stock and pricing
@@ -21,8 +18,7 @@ https://klikleb.com/
 - Responsive mobile-first storefront
 - Order and commerce management foundation
 
-## Repository Policy
-
+## Source code policy
 **Showcase and documentation only.**
 
 The commercial theme source, WooCommerce extensions, installable ZIP packages, private integrations, credentials, and production secrets are not publicly distributed.
